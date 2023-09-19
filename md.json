@@ -3,5 +3,6 @@
     "description": "Panderland",
     "ticker": "PNDR",
     "homepage": "www.blifix.com",
-    "extended": "https://raw.githubusercontent.com/panderetos/gcufs/868fc84f8ef936941557d27b1665d420fb234e14/md_extended.json"
+    "extended": "https://raw.githubusercontent.com/panderetos/gcufs/868fc84f8ef936941557d27b1665d420fb234e14/md_extended.json",
+    "info": "aaaaaaaaaaaaaaaaaa"
 }
